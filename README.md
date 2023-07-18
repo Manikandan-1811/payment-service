@@ -3,6 +3,8 @@
 **How to run?**<br>
 
 **Local build**<br>
+> mvn clean package <br>
+> mvn spring-boot:run <br>
 **Prerequisites**<br>
 
 Java 8+<br>
